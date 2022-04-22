@@ -2,7 +2,7 @@
 
 # **react-js-assignment**
 
-a React Application Page to Display the Full Name and Email Address fetched
+A React Application Page to Display the Full Name and Email Address fetched
 from https://randomuser.me/api
 
 ## **Table of Contents**
